@@ -1,0 +1,7 @@
+D:\Lab4 LtC#\Lab4 LtC#\bin\Debug\Lab4 LtC#.exe.config
+D:\Lab4 LtC#\Lab4 LtC#\bin\Debug\Lab4 LtC#.exe
+D:\Lab4 LtC#\Lab4 LtC#\bin\Debug\Lab4 LtC#.pdb
+D:\Lab4 LtC#\Lab4 LtC#\obj\Debug\Bai 1.csproj.AssemblyReference.cache
+D:\Lab4 LtC#\Lab4 LtC#\obj\Debug\Bai 1.csproj.CoreCompileInputs.cache
+D:\Lab4 LtC#\Lab4 LtC#\obj\Debug\Lab4 LtC#.exe
+D:\Lab4 LtC#\Lab4 LtC#\obj\Debug\Lab4 LtC#.pdb
